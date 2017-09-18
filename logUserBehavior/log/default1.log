@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-09-17T15:19:54</date>
+  <millis>1505632794473</millis>
+  <sequence>7</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>GlobalKeyNMouseListener</class>
+  <method>nativeKeyPressed</method>
+  <thread>14</thread>
+  <message>Key Pressed: Meta</message>
+</record>
+<record>
+  <date>2017-09-17T15:19:54</date>
+  <millis>1505632794569</millis>
+  <sequence>8</sequence>
+  <logger>com.javacodegeeks.snippets.core</logger>
+  <level>SEVERE</level>
+  <class>GlobalKeyNMouseListener</class>
+  <method>nativeKeyPressed</method>
+  <thread>14</thread>
+  <message>Key Pressed: Tab</message>
+</record>
+</log>
